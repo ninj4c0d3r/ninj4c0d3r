@@ -16,10 +16,12 @@
 ### 🎖️ Reports
 
 - [CVE-2017-14135](https://www.cvedetails.com/cve/CVE-2017-14135/) - **Command Injection | Open DreamBox**
+- [CVE-2020-23648](https://gist.github.com/ninj4c0d3r/574d2753d469e4ba51dfe555d9c2d4fb) - **Account Takeover | ASUS RT-N12E**
 - [CVE-2022-1810](https://huntr.dev/bounties/9b2d7579-032e-42da-b736-4b10a868eacb/) - **Improper Access Control | Publify**
 - [CVE-2022-1811](https://huntr.dev/bounties/4d97f665-c9f1-4c38-b774-692255a7c44c/) - **Bypass Restriction and File Upload Leads to XSS Stored | Publify**
 - [CVE-2022-2062](https://huntr.dev/bounties/35593b4c-f127-4699-8ad3-f0b2203a8ef6/) - **SSRF Via SMTP Plugin | NocoDB**
 - [CVE-2022-2063](https://huntr.dev/bounties/156f405b-21d6-4384-9bff-17ebfe484e20/) - **Account Takeover via Webhook Handlebars + API Reset Password | NocoDB**
+- [CVE-2022-40798](https://gist.github.com/ninj4c0d3r/89bdd6702bf00d768302f5e0e5bb8adc) - **Account Takeover | OcoMon**
 
 -------
 

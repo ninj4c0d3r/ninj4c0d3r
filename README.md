@@ -3,7 +3,7 @@
 <p><em>Security Research at <a href="https://www.telefonica.com/">Vivo (Telefônica Brasil)
 </a>
 </em></p>
-<p><b>OSCP | eJPT | DCPT</b></p>
+<p><b>OSCP | eMAPT | eJPT | DCPT</b></p>
 
 ---
 <img align='right' src="https://media0.giphy.com/media/4eGUxJc4lplh6/200w.gif?cid=82a1493blwhxsqq6ehdvua4uy60937hjlhbbae4yzkexiqmc&rid=200w.gif&ct=g" width="230">

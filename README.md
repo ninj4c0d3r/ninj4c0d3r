@@ -1,8 +1,5 @@
 <img align="left" src="https://orhun.dev/img/crow.png">
 <h3>Hey, Im Jonatas!</h3>
-<p><em>Security Research at <a href="https://www.telefonica.com/">Vivo (Telefônica Brasil)
-</a>
-</em></p>
 <p><b>OSCP | eMAPT | eJPT | DCPT</b></p>
 
 ---
@@ -22,6 +19,8 @@
 - [CVE-2022-2062](https://huntr.dev/bounties/35593b4c-f127-4699-8ad3-f0b2203a8ef6/) - **SSRF Via SMTP Plugin | NocoDB**
 - [CVE-2022-2063](https://huntr.dev/bounties/156f405b-21d6-4384-9bff-17ebfe484e20/) - **Account Takeover via Webhook Handlebars + API Reset Password | NocoDB**
 - [CVE-2022-40798](https://gist.github.com/ninj4c0d3r/89bdd6702bf00d768302f5e0e5bb8adc) - **Account Takeover | OcoMon**
+- [CVE-2023-33558](https://gist.github.com/ninj4c0d3r/689c9af5f0eb9124706615e5ff56176e) - **User enumeration | OcoMon**
+- [CVE-2023-33559](https://gist.github.com/ninj4c0d3r/37b581eb799c8ddf97008e35d9f34469) - **File Inclusion allow Remote Code Execution | OcoMon**
 
 -------
 

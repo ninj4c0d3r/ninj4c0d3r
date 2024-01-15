@@ -1,6 +1,6 @@
 <img align="left" src="https://orhun.dev/img/crow.png">
 <h3>Hey, Im Jonatas!</h3>
-<p><b>OSCP | eWPTXv2 | eMAPT | eJPT | DCPT</b></p>
+<p><b>OSCP | CRTO | eWPTXv2 | eMAPT | eJPT | DCPT</b></p>
 
 ---
 <img align='right' src="https://media0.giphy.com/media/4eGUxJc4lplh6/200w.gif?cid=82a1493blwhxsqq6ehdvua4uy60937hjlhbbae4yzkexiqmc&rid=200w.gif&ct=g" width="230">
